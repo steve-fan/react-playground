@@ -3,11 +3,7 @@
 ```
 git clone https://github.com/steve-fan/react-playground.git
 npm install
+npm start
 ```
 
-# Usage
-```
-webpack-dev-server --inline
-```
-
-Open http://localhost:8080
+Open http://localhost:8080 and have fun.
